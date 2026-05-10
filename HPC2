@@ -227,7 +227,7 @@ Parallel Bubble Sort Time: 0.000357863 seconds
 Sorted Array: 5 7 23 32 34 
 
 Sequential Merge Sort Time: 4.747e-06 seconds 
-Sorted Array: 5 7 23 32 34 Parallel 
+Sorted Array: 5 7 23 32 34 
 
-Merge Sort Time: 5.7565e-05 seconds 
+Parallel Merge Sort Time: 5.7565e-05 seconds 
 Sorted Array: 5 7 23 32 34 
